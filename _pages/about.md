@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: center; max-width: 800px; margin: 0 auto;">
 <br>
+
+<div style="text-align: justify; max-width: 800px; margin: 0 auto; padding: 0 20px; line-height: 1.6;">
 
 Welcome to my website! I am a Ph.D. candidate in Economics at the Department of Economics, Business School of the Hong Kong University of Science and Technology .
 
@@ -16,13 +17,14 @@ My research focuses on econometric theory, applied econometrics, machine learnin
 
 I am on the 2025-2026 job market and welcome discussions about my research！
 
+</div>
+
 <br>
+
 <div style="text-align: center;">
     <img src="/images/cassie.JPG" alt="Kaixi Zhang at the Musée d'Orsay" style="width: 80%; max-width: 600px; border-radius: 8px;">
 </div>
 
 <div style="text-align: right; font-family: serif; font-style: italic; margin-top: 8px; color: #555; font-size: 1.1em; padding-right: 10%;">
     Twilight on the Seine
-</div>
-
 </div>
