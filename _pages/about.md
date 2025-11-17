@@ -11,3 +11,8 @@ Welcome to my website! I am a Ph.D. candidate in Economics at the Department of 
 My research focuses on econometric theory, applied econometrics, machine learning, and high-dimensional statistics. I am particularly interested in developing estimation and inference tools that use the predictive power of AI while maintaining the causal interpretation that is essential for economic analysis.
 
 I am on the 2025-2026 job market and welcome discussions about my research！
+
+<br>
+<div style="text-align: center;">
+    <img src="/images/cassie.JPG" alt="Twilight on the Seine" style="max-width: 300px; border-radius: 8px;">
+</div>
