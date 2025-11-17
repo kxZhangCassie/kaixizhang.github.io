@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<br>
-
-<div style="text-align: justify; max-width: 800px; margin: 0 auto; padding: 0 20px; line-height: 1.6;">
+<div style="max-width: 800px; margin: 0 auto; padding: 0 20px; line-height: 1.6;">
+<div style="text-align: justify;">
 
 Welcome to my website! I am a Ph.D. candidate in Economics at the Department of Economics, Business School of the Hong Kong University of Science and Technology .
 
@@ -17,6 +16,7 @@ My research focuses on econometric theory, applied econometrics, machine learnin
 
 I am on the 2025-2026 job market and welcome discussions about my research！
 
+</div>
 </div>
 
 <br>
