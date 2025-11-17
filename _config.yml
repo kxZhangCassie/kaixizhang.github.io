@@ -26,7 +26,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kaixi Zhang (張凱夕)"
-  pronouns         : "she/her"  
+  pronouns         : # example: "she/her" 
   bio              : "Ph.D. Candidate in Economics"
   location         : "Hong Kong SAR"
   employer         : "HKUST"
