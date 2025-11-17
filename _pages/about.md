@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<br>
+
 <div style="max-width: 800px; margin: 0 auto; text-align: justify; line-height: 1.6;">
  <p> Welcome to my website! I am a Ph.D. candidate in Economics at the Department of Economics, Business School of the Hong Kong University of Science and Technology.</p>
 
