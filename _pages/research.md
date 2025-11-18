@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-<a href="/files/QRCS.pdf" target="_blank" style="color: #4285f4; text-decoration: none;"><strong>Quantile Regression with Censored Selection and Many Controls</strong></a><br>
+<a href="/files/QRCS.pdf" target="_blank" style="color: #3B5998; text-decoration: none;"><strong>Quantile Regression with Censored Selection and Many Controls</strong></a><br>
 (with Songnian Chen and Junlong Feng)
 
 <details class="no-border">
@@ -32,7 +32,7 @@ author_profile: true
 
 <div style="margin-top: 16px;"></div> <!-- Increased margin to separate from the next paper -->
 
-<a href="/files/CFQR.pdf" target="_blank" style="color: #4285f4; text-decoration: none;"><strong>Endogenous High-Dimensional Quantile Regression: A Control Function Approach</strong></a>
+<a href="/files/CFQR.pdf" target="_blank" style="color: #3B5998; text-decoration: none;"><strong>Endogenous High-Dimensional Quantile Regression: A Control Function Approach</strong></a>
 
 <details class="no-border">
 <summary>Abstract</summary>
@@ -68,10 +68,10 @@ details.no-border summary {
     transition: color 0.2s ease;
 }
 details.no-border summary:hover {
-    color: #4285f4;
+    color: #3B5998; /* Updated hover color to match new link color */
 }
 .abstract-content {
-    padding: 4px 0; /* Reduced padding between title and abstract */
+    padding: 2px 0; /* Further reduced padding between title and abstract */
     line-height: 1.6;
 }
 .abstract-content p {
@@ -80,19 +80,19 @@ details.no-border summary:hover {
     text-align: justify;
 }
 a[target="_blank"] {
-    color: #4285f4; /* Updated link color to match Google link color */
+    color: #3B5998; /* Updated link color to a more muted shade */
     text-decoration: none;
 }
 a[target="_blank"]:hover {
-    color: #4285f4;
+    color: #3B5998;
     text-decoration: underline;
 }
 .abstract-content a {
-    color: #4285f4; /* Updated link color to match Google link color */
+    color: #3B5998; /* Updated link color to a more muted shade */
     text-decoration: none;
 }
 .abstract-content a:hover {
-    color: #4285f4;
+    color: #3B5998;
     text-decoration: underline;
 }
 </style>
