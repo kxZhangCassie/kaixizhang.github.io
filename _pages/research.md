@@ -5,10 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research Interests
-
-Econometric Theory, Machine Learning, High-dimensional Statistics, Applied Econometrics
-
 # Working Papers
 
 ## Job Market Paper
