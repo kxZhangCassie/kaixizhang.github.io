@@ -31,7 +31,8 @@ author_profile: true
 </details>
 
 <div style="margin-top: 20px;"></div> <!-- Increased margin to separate from the next paper -->
-
+<br>
+<br>
 <a href="/files/CFQR.pdf" target="_blank" style="color: #4A90E2; text-decoration: none;"><strong>Endogenous High-Dimensional Quantile Regression: A Control Function Approach</strong></a>
 
 <details class="no-border">
