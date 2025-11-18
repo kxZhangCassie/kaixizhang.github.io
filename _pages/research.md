@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-<a href="/files/QRCS.pdf" target="_blank" style="color: #1a0dab; text-decoration: none;"><strong>Quantile Regression with Censored Selection and Many Controls</strong></a><br>
+<a href="/files/QRCS.pdf" target="_blank" style="color: #4285f4; text-decoration: none;"><strong>Quantile Regression with Censored Selection and Many Controls</strong></a><br>
 (with Songnian Chen and Junlong Feng)
 
 <details class="no-border">
@@ -30,7 +30,9 @@ author_profile: true
 </div>
 </details>
 
-<a href="/files/CFQR.pdf" target="_blank" style="color: #1a0dab; text-decoration: none;"><strong>Endogenous High-Dimensional Quantile Regression: A Control Function Approach</strong></a>
+<div style="margin-top: 16px;"></div> <!-- Increased margin to separate from the next paper -->
+
+<a href="/files/CFQR.pdf" target="_blank" style="color: #4285f4; text-decoration: none;"><strong>Endogenous High-Dimensional Quantile Regression: A Control Function Approach</strong></a>
 
 <details class="no-border">
 <summary>Abstract</summary>
@@ -69,7 +71,7 @@ details.no-border summary:hover {
     color: #4285f4;
 }
 .abstract-content {
-    padding: 6px 0;
+    padding: 4px 0; /* Reduced padding between title and abstract */
     line-height: 1.6;
 }
 .abstract-content p {
@@ -78,19 +80,19 @@ details.no-border summary:hover {
     text-align: justify;
 }
 a[target="_blank"] {
-    color: #1a0dab;
+    color: #4285f4; /* Updated link color to match Google link color */
     text-decoration: none;
 }
 a[target="_blank"]:hover {
-    color: #1a0dab;
+    color: #4285f4;
     text-decoration: underline;
 }
 .abstract-content a {
-    color: #1a0dab;
+    color: #4285f4; /* Updated link color to match Google link color */
     text-decoration: none;
 }
 .abstract-content a:hover {
-    color: #1a0dab;
+    color: #4285f4;
     text-decoration: underline;
 }
 </style>
